@@ -24,5 +24,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Jack, the Fire Dog
 url: http://www.gutenberg.org/ebooks/48861
